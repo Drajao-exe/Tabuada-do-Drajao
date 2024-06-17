@@ -1,2 +1,2 @@
 # Tabuada-do-Drajao
-Tabuada de multiplicação de número escolhiso
+Tabuada de multiplicação de número escolhido
